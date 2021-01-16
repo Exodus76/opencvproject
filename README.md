@@ -1,2 +1,2 @@
-default username, password
+default username, password <br />
 midoru, 12345
